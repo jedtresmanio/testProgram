@@ -3,7 +3,7 @@ BOOP = "Boop"
 GOOD_VOLTAGE = 1.2
 is_entering = True
 sound_list = []
-INVALID = "Not robot compliant!"
+INVALID = "Not robot compliant!!"
 
 while is_entering:
     try:
